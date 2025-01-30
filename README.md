@@ -1,2 +1,5 @@
 # Expense-Tracker
-Programa simple utilizando python para control de gastos
+Simple program with Python
+
+1. Install Python
+2. Execute the program
